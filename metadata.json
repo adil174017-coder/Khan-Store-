@@ -1,0 +1,6 @@
+{
+  "name": "KHAN Store — Flagship Electronics & Tech E-Commerce",
+  "description": "Premium electronics e-commerce store offering smartphones, laptops, audio gear, smartwatches, and tech accessories with instant checkout, live order tracking, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
